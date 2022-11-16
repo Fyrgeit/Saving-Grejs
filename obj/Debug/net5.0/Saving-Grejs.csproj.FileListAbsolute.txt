@@ -1,0 +1,16 @@
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.csproj.AssemblyReference.cache
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.AssemblyInfoInputs.cache
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.AssemblyInfo.cs
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.csproj.CoreCompileInputs.cache
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\Saving-Grejs.exe
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\Saving-Grejs.deps.json
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\Saving-Grejs.runtimeconfig.json
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\Saving-Grejs.runtimeconfig.dev.json
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\Saving-Grejs.dll
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\ref\Saving-Grejs.dll
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\bin\Debug\net5.0\Saving-Grejs.pdb
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.dll
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\ref\Saving-Grejs.dll
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.pdb
+C:\Users\henriksson.mans\github-classroom\TE20C-spel-prog-2\prog-2-Fyrgeit\OOP\Saving-Grejs\obj\Debug\net5.0\Saving-Grejs.genruntimeconfig.cache

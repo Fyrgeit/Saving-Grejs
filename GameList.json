@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Minceraft",
+    "launchYear": 2010,
+    "genres": [
+      "Survival",
+      "SinglePlayer",
+      "Sandbox",
+      "Adventure",
+      "Multiplayer",
+      "3D"
+    ],
+    "publisher": "Mojang",
+    "earlyAccess": false
+  },
+  {
+    "name": "Celeste",
+    "launchYear": 2018,
+    "genres": [
+      "SinglePlayer",
+      "Platformer",
+      "2D"
+    ],
+    "publisher": "Matt Makes Games",
+    "earlyAccess": false
+  },
+  {
+    "name": "Untitled goose game",
+    "launchYear": 2019,
+    "genres": [
+      "Puzzle",
+      "Stealth",
+      "Single player",
+      "Topdown 3D"
+    ],
+    "publisher": "House House",
+    "earlyAccess": false
+  }
+]
